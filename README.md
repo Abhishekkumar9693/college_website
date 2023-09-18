@@ -3,16 +3,20 @@
 
 The pages of websites can usually be accessed from a common root URL called the homepage, and usually reside on the same physical server. The URLs of the pages organize them into a hierarchy, although the hyperlinks between them control how the reader perceives the overall structure and how the traffic flows between the different parts of the sites.
 
-1.DFD for admin
+
+**Data Flow Diagrams:**
+
+
+i.DFD for admin
 ![image](https://github.com/Abhishekkumar9693/college_website/assets/93755111/0312a998-8ec6-4cb6-8422-a62cf64bba97)
 
-2. DFD for staff
+ii. DFD for staff
    ![image](https://github.com/Abhishekkumar9693/college_website/assets/93755111/95a01885-2a98-4eb6-b489-0a6432a37c01)
 
-3. DFD for student
+iii. DFD for student
 ![image](https://github.com/Abhishekkumar9693/college_website/assets/93755111/3ae45220-335c-42aa-9ecc-4ae3f8912646)
 
-**FLOWCHART For admin**
+**FLOWCHART FOR ADMIN**
    ![image](https://github.com/Abhishekkumar9693/college_website/assets/93755111/10f86583-5a64-4e0c-8acf-630f38069747)
 
 
